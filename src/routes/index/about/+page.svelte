@@ -88,7 +88,7 @@
 </script>
 
 <svelte:head>
-  <title>about duducat - duducat's website!</title>
+  <title>about jackyttyy91-lang - jackyttyy91-lang's website!</title>
 </svelte:head>
 
 <div class="category-box">

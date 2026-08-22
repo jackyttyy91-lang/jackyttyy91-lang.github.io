@@ -96,7 +96,7 @@
     <section class="box big about-me-main">
       <h2 class="hide-if-mobile">about me</h2>
       <p>
-        I'm <TextSplitter text="duducat" />, but you can see me go by my old display name <TextSplitter text="ducdat0507" />. 
+        I'm <TextSplitter text="jackyttyy91-lang" />, but you can see me go by my old display name <TextSplitter text="jackyttyy91-lang" />. 
       </p>
       <p>
         I make random things on the interwebz. 
